@@ -1,0 +1,16 @@
+{
+  "name": "eva",
+  "version": "0.0.1",
+  "description": "A basic discord bot.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Jack Price-Burns",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "wordnet": "latest",
+    "mysql": "latest"
+  }
+}
